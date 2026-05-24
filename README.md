@@ -118,51 +118,51 @@ mvn spring-boot:run
 
 ## CRUD de clientes
 
-![Cliente POST](img/crear cliente-post.png)
+![Cliente POST](img/crear-cliente-post.png)
 
-![Cliente GET](img/get cliente.png)
+![Cliente GET](img/get-cliente.png)
 
-![Cliente PUT](img/put cliente.png)
+![Cliente PUT](img/put-cliente.png)
 
-![Cliente DELETE](img/delete cliente.png)
+![Cliente DELETE](img/delete-cliente.png)
 
 ---
 
 ## CRUD de productos
 
-![Producto POST](img/crear producto-post.png)
+![Producto POST](img/crear-producto-post.png)
 
-![Producto GET](img/get productos.png)
+![Producto GET](img/get-productos.png)
 
-![Producto PUT](img/put productos.png)
+![Producto PUT](img/put-productos.png)
 
-![Producto DELETE](img/delete productos.png)
+![Producto DELETE](img/delete-productos.png)
 
 ---
 
 ## Registro de pedidos
 
-![Pedido](img/registrar pedido-post.png)
+![Pedido](img/registrar-pedido-post.png)
 
 ---
 
 ## Disminución automática de stock
 
-![Stock](img/verificar stock-get.png)
+![Stock](img/verificar-stock-get.png)
 
 ---
 
 ## Validaciones funcionando
 
-![Validaciones](img/probar validaciones-post.png)
+![Validaciones](img/probar-validaciones-post.png)
 
 ---
 
 ## Seguridad implementada
 
-![Seguridad GET](img/probar seguridad-user get.png)
+![Seguridad GET](img/probar-seguridad-user%20get.png)
 
-![Seguridad POST](img/probar seguridad-user post.png)
+![Seguridad POST](img/probar-seguridad-user%20post.png)
 
 ---
 
